@@ -1,0 +1,2 @@
+From ubuntu
+CMD ["echo","i dont know how to do this 175610079, Ular yang melata ditanah bermimpi terbang di angkasa itu hal yang mustakhil. Kau yang ingin melakukan sesuatu dan mengincar anak ayam di sarang, malah berbalik diincar oleh mata rajawali yang terbang tinggi di langit"]
